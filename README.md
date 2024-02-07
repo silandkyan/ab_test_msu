@@ -20,7 +20,7 @@ In preparation for an A/B Test, the UX team had conversations with a few student
 * Main metric: Click-through rate (CTR)
 * Additional metrics: Drop-off rate and Homepage-return rate for the category pages
 * Since there is a lot of room for improvement, the minimum detectable effect should be set large, e.g. 30% increase in CTR.
-* Use external tool for experiment setup.
+* Use external tool (CracyEgg) for experiment setup.
 
 The hypotheses to be tested in the experiment are the following:
 
