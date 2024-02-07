@@ -35,7 +35,8 @@ Length of the experiment: 21 days (calculated based on current CTR for Interact 
 
 
 ## Data
+All the data from A/B-testing can be found in the CrazyEgg_data folder. 
 
-
-## Conclusion
+## Analysis and Conclusion
+The entire analytical procedure and experiment conclusion can be found in the analysis.ipynb notebook.
 
